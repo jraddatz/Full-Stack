@@ -123,3 +123,40 @@ __17.06.2019 - 23.06.2019__
 | 17.06.2019 | Implementierung MQTT-Client | 3 h |  |
 | 17.06.2019 | Tests definieren und schreiben | 1 h |  |
 | 18.06.2019 | Abfangen und Ausgeben von Netzwerkfehlern (MQTT-Client) | 2 h | |
+
+## Woche 12
+
+__24.06.2019 - 30.06.2019__
+
+| Datum      | Tätigkeit      | Dauer  | Zusatz |
+| ---------- | -------------- | ------ | ------ |
+| 28.06.2019 | Vorbereitung und Absprache bzgl. Abschlusspräsentation | 3 h |  |
+| 30.06.2019 | Vorbereitung und Absprache bzgl. Abschlusspräsentation | 1,5 h |  |
+
+## Woche 13
+
+__01.07.2019 - 07.07.2019__
+
+| Datum      | Tätigkeit      | Dauer  | Zusatz |
+| ---------- | -------------- | ------ | ------ |
+| 01.07.2019 | Vorbereitung und Absprache bzgl. Abschlusspräsentation | 1 h |  |
+
+
+
+
+
+- Woche 1: 3,75 h
+- Woche 2: 1,5 h
+- Woche 3: 5,25 h
+- Woche 4: 4,75 h
+- Woche 5: 2 h
+- Woche 6: 14 h
+- Woche 7: 11,25 h
+- Woche 8: 1,5 h
+- Woche 9: 4 h
+- Woche 10: 6 h
+- Woche 11: 6 h
+- Woche 12: 4,5 h
+- Woche 13: 1 h
+
+Insgesamt: 65,5 h 
