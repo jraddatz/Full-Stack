@@ -130,6 +130,8 @@ __24.06.2019 - 30.06.2019__
 
 | Datum      | Tätigkeit      | Dauer  | Zusatz |
 | ---------- | -------------- | ------ | ------ |
+| 24.06.2019 | Planung des Ablaufs der Projektpräsentation | 2 h |  |
+| 24.06.2019 | Erstellung der Projektpräsentation begonnen | 1 h |  |
 | 28.06.2019 | Vorbereitung und Absprache bzgl. Abschlusspräsentation | 3 h |  |
 | 30.06.2019 | Vorbereitung und Absprache bzgl. Abschlusspräsentation | 1,5 h |  |
 
@@ -156,7 +158,7 @@ __01.07.2019 - 07.07.2019__
 - Woche 9: 4 h
 - Woche 10: 6 h
 - Woche 11: 6 h
-- Woche 12: 4,5 h
+- Woche 12: 7,5 h
 - Woche 13: 1 h
 
-Insgesamt: 65,5 h 
+Insgesamt: 68,5 h 
